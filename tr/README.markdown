@@ -1,3 +1,8 @@
+# Introduction #
+ 
+ This is a small tool for quick access internal trouble report system.
+ 
+ 
 # Usage #
 
  Add the following line to your bookmark bar:
